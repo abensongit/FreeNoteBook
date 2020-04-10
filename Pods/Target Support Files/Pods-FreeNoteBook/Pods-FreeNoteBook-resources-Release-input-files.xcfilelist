@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-FreeNoteBook/Pods-FreeNoteBook-resources.sh
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/MMNumberKeyboard/Images/MMNumberKeyboardDeleteKey.png
+${PODS_ROOT}/MMNumberKeyboard/Images/MMNumberKeyboardDeleteKey@2x.png
+${PODS_ROOT}/MMNumberKeyboard/Images/MMNumberKeyboardDeleteKey@3x.png
+${PODS_ROOT}/MMNumberKeyboard/Images/MMNumberKeyboardDismissKey.png
+${PODS_ROOT}/MMNumberKeyboard/Images/MMNumberKeyboardDismissKey@2x.png
+${PODS_ROOT}/MMNumberKeyboard/Images/MMNumberKeyboardDismissKey@3x.png
+${PODS_ROOT}/SVProgressHUD/SVProgressHUD/SVProgressHUD.bundle
